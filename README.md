@@ -14,7 +14,7 @@
     "extends": "./config/eslint.conf.js"
   },
   "babel": {
-    "extends": "'./config/babel.conf.json"
+    "extends": "./config/babel.conf.json"
   }
 }
 ```
